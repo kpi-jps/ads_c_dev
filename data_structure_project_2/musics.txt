@@ -1,0 +1,8 @@
+1 musica|1| 467 artista|1| album|1|
+2 musica|2| 567 artista|1| album|
+3 Música|3| 670 Músico|3| Álbum|3|
+4 musica|4| 457 musico|4| album|4|
+5 musica|5| 345 artista5| album|5|
+6 musica|6| 760 cantor|6| album|6|
+7 musica|7| 467 artista|7| album|7|
+22 musica|22| 489 artista|22| album|22|
