@@ -1,10 +1,12 @@
 # C-dev
-***
 
 Algorithms and codes build cursing Analysis and Systems Development in Federal Institute of São Paulo (IFSP) campus São Carlos.
 
 ## directory c_exercises
 Exercises solved using C language applying repeating and conditional structure, matrices, functions and using vectors and strings.
+
+## directory data_structure
+Algorithms for data structure stack and avl tree.
 
 ## directory c_project
 An complete application wrote in C, it is able to register simple student data, such as name, id, birth and course. The data is save and recovery from files.
